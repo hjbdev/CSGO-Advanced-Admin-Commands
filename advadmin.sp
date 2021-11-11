@@ -44,7 +44,7 @@ bool g_toggle2[MAXPLAYERS+1];
 
 char WeaponsList[][] = //VALID WEAPON NAMES HERE
 {
-	"c4", "knife", "knifegg", "taser", "healthshot", "bumpmine", "shield", //misc
+	"c4", "knife", "knifegg", "taser", "healthshot", "bumpmine", "shield", "breachcharge", //misc
 	"decoy", "flashbang", "hegrenade", "molotov", "incgrenade", "smokegrenade", "tagrenade", //grenades
 	"usp_silencer", "glock", "tec9", "p250", "hkp2000", "cz75a", "deagle", "revolver", "fiveseven", "elite", //pistoles
 	"nova", "xm1014", "sawedoff", "mag7", "m249", "negev", //heavy
